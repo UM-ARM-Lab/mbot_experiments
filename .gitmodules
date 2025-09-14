@@ -1,0 +1,7 @@
+[submodule "external/mbot_lcm_base"]
+	path = external/mbot_lcm_base
+	url = https://github.com/UM-ARM-Lab/mbot_lcm_base.git
+	branch = main
+[submodule "external/vicon2lcm"]
+	path = external/vicon2lcm
+	url = https://github.com/UM-ARM-Lab/vicon2lcm.git

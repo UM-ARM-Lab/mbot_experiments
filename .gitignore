@@ -1,0 +1,10 @@
+lcm_test/exlcm/
+
+__pycache__/
+
+build/
+log/
+install/
+
+# Generated LCM Python bindings (created by setup_desktop.sh)
+mbot_lcm_msgs/

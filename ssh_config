@@ -1,0 +1,5 @@
+Host arm-mbot
+    ForwardAgent yes
+    ForwardX11 yes
+    hostname 10.10.10.134
+    user mbot
