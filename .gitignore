@@ -8,3 +8,5 @@ install/
 
 # Generated LCM Python bindings (created by setup_desktop.sh)
 mbot_lcm_msgs/
+
+real_data/
