@@ -127,4 +127,17 @@ This repo was tested on the `Classic MBot` (differential drive with caster wheel
 - [Robot is Driving Crooked](https://mbot.robotics.umich.edu/docs/troubleshooting/#my-robot-is-driving-crooked)
 - Git clone through https on the MBot to avoid having to setup personal keys (if only pulling and not pushing).
 
+## Citing
+If you find this repository or our work useful, please consider citing:
+```
+@misc{marques2025liestrustquantifyingaction,
+      title={Lies We Can Trust: Quantifying Action Uncertainty with Inaccurate Stochastic Dynamics through Conformalized Nonholonomic Lie Groups}, 
+      author={Luís Marques and Maani Ghaffari and Dmitry Berenson},
+      year={2025},
+      eprint={2512.10294},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2512.10294}, 
+}
+```
 
